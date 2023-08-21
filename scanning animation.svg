@@ -1,0 +1,270 @@
+<svg width="100%" min-height="0" viewBox="0 0 2344 2335" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <g id="Scanning">
+        <circle id="bg" cx="1172" cy="1167.5" r="1129.11" fill="url(#paint0_linear_16_38)" />
+        <path id="face-silhouette" d="M899.346 1600.61V1454.46C860.423 1406.61 820.423 1294.61 820.423 1228.61C757.284 1225.41 742.115 1040.61 742.423 948.609C747.223 916.609 787.5 916.097 807.039 919.84C784.423 894.609 752.046 684.475 807.039 573.686C862.031 462.897 979.102 370.474 1172.18 370.474C1365.26 370.474 1480.23 462.726 1536.96 573.686C1593.69 684.647 1559.58 894.609 1536.96 919.84C1556.5 916.097 1596.78 916.609 1601.58 948.609C1601.89 1040.61 1586.72 1225.41 1523.58 1228.61C1523.58 1294.61 1483.58 1406.61 1444.65 1454.46V1600.61C1444.65 1663.95 1502.74 1698.79 1536.96 1734.08C1571.18 1769.37 1735.53 1835.55 1828.06 1882.78C1874.19 1906.33 1906.19 1946.76 1906.19 1946.76C1906.19 1946.76 1673.5 2237.68 1172 2246.56C670.499 2237.68 437.808 1946.76 437.808 1946.76C437.808 1946.76 469.808 1906.33 515.942 1882.78C608.47 1835.55 772.821 1769.37 807.039 1734.08C841.256 1698.79 899.346 1663.95 899.346 1600.61Z" fill="#15172C" />
+        <g id="scan-area">
+            <path id="top-left" d="M555.422 600.609V344.609H815.422" stroke="#191337" stroke-width="36" />
+            <path id="top-right" d="M1799.42 600.609V344.609H1539.42" stroke="#191337" stroke-width="36" />
+            <path id="bottom-right" d="M1799.42 1252.61V1516.61H1551.42" stroke="#191337" stroke-width="36" />
+            <path id="bottom-left" d="M555.422 1252.61V1516.61H803.422" stroke="#191337" stroke-width="36" />
+        </g>
+        <g id="face-dots">
+            <circle id="d-1" cx="903" cy="886.75" r="32.5" fill="#413FDB" />
+            <circle id="d-2" cx="1169.24" cy="814.75" r="32.5" fill="#413FDB" />
+            <circle id="d-3" cx="1441" cy="886.75" r="32.5" fill="#413FDB" />
+            <circle id="d-4" cx="1027.5" cy="1018.75" r="32.5" fill="#413FDB" />
+            <circle id="d-5" cx="1313.48" cy="1018.75" r="32.5" fill="#413FDB" />
+            <circle id="d-6" cx="942.5" cy="1200" r="32.5" fill="#413FDB" />
+            <circle id="d-7" cx="1169.24" cy="1163.75" r="32.5" fill="#413FDB" />
+            <circle id="d-8" cx="1398.48" cy="1200" r="32.5" fill="#413FDB" />
+            <circle id="d-9" cx="1169.24" cy="1434.25" r="32.5" fill="#413FDB" />
+        </g>
+        <path id="scanning-bar" d="M622 360.474H1722" stroke="#EFEFEF" stroke-width="36" />
+        <g id="tick-section">
+            <path id="tick-circle" d="M1370.6 1051.25C1370.6 1162.46 1280.45 1252.61 1169.24 1252.61C1058.03 1252.61 967.878 1162.46 967.878 1051.25C967.878 940.042 1058.03 849.891 1169.24 849.891C1228.31 849.891 1281.44 875.327 1318.27 915.844C1350.78 951.604 1370.6 999.113 1370.6 1051.25Z" fill="#00B894" stroke="#00B894" stroke-width="10" />
+            <path id="tick" d="M1064.24 1048.25L1136.24 1120.25L1274.24 982.25" stroke="#EFEFEF" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear_16_38" x1="1932.33" y1="336.609" x2="600.333" y2="2084.61" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#972CD9" />
+            <stop offset="1" stop-color="#3E40DD" />
+        </linearGradient>
+
+        <style>
+#d-1,
+      #d-2,
+      #d-3,
+      #d-4,
+      #d-5,
+      #d-6,
+      #d-7,
+      #d-8,
+      #d-9 {
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+
+      #d-1,
+      #d-4 {
+        animation: d__appear__14 10s ease-in-out infinite;
+      }
+
+      @keyframes d__appear__14 {
+        0% {
+          opacity: 0;
+        }
+
+        10%,
+        60% {
+          opacity: 1;
+        }
+
+        63%,
+        90% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 0;
+        }
+      }
+
+      #d-3,
+      #d-9 {
+        animation: d__appear__39 10s ease-in-out infinite;
+      }
+
+      @keyframes d__appear__39 {
+        0%,
+        10% {
+          opacity: 0;
+        }
+
+        20%,
+        60% {
+          opacity: 1;
+        }
+
+        63%,
+        90% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 0;
+        }
+      }
+
+      #d-2,
+      #d-6 {
+        animation: d__appear__26 10s ease-in-out infinite;
+      }
+
+      @keyframes d__appear__26 {
+        0%,
+        20% {
+          opacity: 0;
+        }
+
+        30%,
+        60% {
+          opacity: 1;
+        }
+
+        63%,
+        90% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 0;
+        }
+      }
+
+      #d-5,
+      #d-8 {
+        animation: d__appear__58 10s ease-in-out infinite;
+      }
+
+      @keyframes d__appear__58 {
+        0%,
+        30% {
+          opacity: 0;
+        }
+
+        40%,
+        60% {
+          opacity: 1;
+        }
+
+        63%,
+        90% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 0;
+        }
+      }
+
+      #d-7 {
+        animation: d__appear__7 10s ease-in-out infinite;
+      }
+
+      @keyframes d__appear__7 {
+        0%,
+        40% {
+          opacity: 0;
+        }
+
+        50%,
+        60% {
+          opacity: 1;
+        }
+
+        63%,
+        90% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 0;
+        }
+      }
+
+      #scanning-bar {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: scanning__bar 10s ease-in-out infinite;
+      }
+
+      @keyframes scanning__bar {
+        0% {
+          transform: translateY(0px);
+        }
+
+        8% {
+          transform: translateY(1150px);
+        }
+
+        18% {
+          transform: translateY(0px);
+        }
+
+        28% {
+          transform: translateY(1150px);
+        }
+
+        38% {
+          transform: translateY(0px);
+        }
+
+        48% {
+          opacity: 1;
+          transform: translateY(1150px);
+        }
+
+        50%,
+        100% {
+          opacity: 0;
+          transform: translateY(1150px);
+        }
+      }
+
+      #tick-circle {
+        fill: transparent;
+        stroke-dasharray: 1265.3624267578125;
+        stroke-dashoffset: 1265.3624267578125;
+        animation: tick__circle 10s ease-in-out infinite;
+      }
+
+      @keyframes tick__circle {
+        0%,
+        60% {
+          fill: transparent;
+          stroke-dashoffset: -1265.3624267578125;
+        }
+
+        65%,
+        90% {
+          stroke-dashoffset: 0;
+        }
+
+        68%,
+        90% {
+          fill: #00b894;
+        }
+
+        100% {
+          fill: transparent;
+          stroke-dashoffset: 1265.3624267578125;
+        }
+      }
+
+      #tick {
+        stroke-dasharray: 296.98486328125;
+        stroke-dashoffset: 296.98486328125;
+        animation: tick 10s ease-in-out infinite;
+      }
+
+      @keyframes tick {
+        0%,
+        62% {
+          stroke-dashoffset: 296.98486328125;
+        }
+
+        67%,
+        90% {
+          stroke-dashoffset: 0;
+        }
+
+        100% {
+          fill: transparent;
+          stroke-dashoffset: 296.98486328125;
+        }
+      }
+        </style>
+    </defs>
+</svg>
